@@ -11,8 +11,6 @@ pip install timi-uuid
 ```
     >>> from timi_uuid import timi_uuid
 
-    >>> 
-
     >>> timi_uuid.get_id()
     '8c288f25-d690-4600-f911-e6011175d101'
     
